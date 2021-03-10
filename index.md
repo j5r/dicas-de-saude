@@ -8,25 +8,25 @@ Junior R. Ribeiro
 
 Esta página contém vários vídeos sobre saúde e hábitos saudáveis, são aulas que eu pesquisei de um médico endocrinologista que explica com muita maestria o funcionamento metabólico do corpo humano, os principais problemas dos nossos hábitos de vida e as formas de prevenção de eventuais e futuras doenças.
 
-| Assunto            | Vídeo                               | Recomendado |
-| :----------------- | :---------------------------------- | ----------- |
-| Leite              | [leite](#leite)                     | Osteoporose |
-| Osteoporose        | [osteoporose](#osteoporose)         | Inflamação  |
-| Café               | [café](#café)                       | Oxidação    |
-| Limão              | [limão](#limão)                     |             |
-| Sono               | [sono](#sono)                       | Melatonina  |
-| Inflamação         | [inflamação](#inflamação)           |             |
-| Melatonina         | [melatonina](#melatonina)           |             |
-| Memória            | [memória](#memória)                 |             |
-| Alzheimer          | [alzheimer](#alzheimer)             |             |
-| Insulina           | [insulina](#insulina)               |             |
-| Diabetes           | [diabetes](#diabetes)               |             |
-| Ácido Úrico        | [ácido úrico](#ácido-úrico)         |             |
-| Proteína Animal    | [proteína animal](#proteína-animal) |             |
-| Intestino          | [intestino](#intestino)             |             |
-| Serotonina         | [serotonina](#serotonina)           |             |
-| Estresse Oxidativo | [oxidação](#oxidação)               |             |
-| Caminhada          | [caminhada](#caminhada)             |             |
+| Assunto            | Vídeo                               | Assunto Recomendado |
+| :----------------- | :---------------------------------- | ------------------- |
+| Leite              | [leite](#leite)                     | Osteoporose         |
+| Osteoporose        | [osteoporose](#osteoporose)         | Inflamação          |
+| Café               | [café](#café)                       | Oxidação            |
+| Limão              | [limão](#limão)                     |                     |
+| Sono               | [sono](#sono)                       | Melatonina          |
+| Inflamação         | [inflamação](#inflamação)           |                     |
+| Melatonina         | [melatonina](#melatonina)           |                     |
+| Memória            | [memória](#memória)                 |                     |
+| Alzheimer          | [alzheimer](#alzheimer)             |                     |
+| Insulina           | [insulina](#insulina)               |                     |
+| Diabetes           | [diabetes](#diabetes)               |                     |
+| Ácido Úrico        | [ácido úrico](#ácido-úrico)         |                     |
+| Proteína Animal    | [proteína animal](#proteína-animal) |                     |
+| Intestino          | [intestino](#intestino)             |                     |
+| Serotonina         | [serotonina](#serotonina)           |                     |
+| Estresse Oxidativo | [oxidação](#oxidação)               |                     |
+| Caminhada          | [caminhada](#caminhada)             |                     |
 
 ### Leite
 
