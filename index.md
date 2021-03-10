@@ -1,37 +1,53 @@
-## Welcome to GitHub Pages
+# Dicas de saúde
 
-You can use the [editor on GitHub](https://github.com/j5r/dicas-de-saude/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+# Conteúdos
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Esta página contém vários vídeos sobre saúde e hábitos saudáveis, são aulas que eu pesquisei de um médico endocrinologista que explica com muita maestria o funcionamento metabólico do corpo humano, os principais problemas dos nossos hábitos de vida e as formas de prevenção de eventuais e futuras doenças.
 
-### Markdown
+| Assunto    | Vídeo                     | Recomendado |
+| :--------- | :------------------------ | ----------- |
+| Leite      | [leite](#leite)           |             |
+| Café       | [café](#cafe)             |             |
+| Limão      | [limão](#limao)           |             |
+| Sono       | [sono](#sono)             | Melatonina  |
+| Melatonina | [melatonina](#melatonina) |             |
+| Memória    | [memória](#memoria)       |             |
+| Alzheimer  | [alzheimer](#alzheimer)   |             |
+| Insulina   | [insulina](#insulina)     |             |
+| Diabetes   | [diabetes](#diabetes)     |             |
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+### Leite
 
-```markdown
-Syntax highlighted code block
+[![Leite](http://img.youtube.com/vi/R7J3uC2aULs/0.jpg)](http://www.youtube.com/watch?v=R7J3uC2aULs)
 
-# Header 1
-## Header 2
-### Header 3
+### Café
 
-- Bulleted
-- List
+[![Café](http://img.youtube.com/vi/kugvtSuE17k/0.jpg)](http://www.youtube.com/watch?v=kugvtSuE17k)
 
-1. Numbered
-2. List
+### Melatonina
 
-**Bold** and _Italic_ and `Code` text
+[![Melatonina](http://img.youtube.com/vi/-dIfSJMwXYc/0.jpg)](http://www.youtube.com/watch?v=-dIfSJMwXYc)
 
-[Link](url) and ![Image](src)
-```
+### Limão
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+[![Limão](http://img.youtube.com/vi/TjbDWe8dpBk/0.jpg)](http://www.youtube.com/watch?v=TjbDWe8dpBk)
 
-### Jekyll Themes
+### Sono
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/j5r/dicas-de-saude/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+[![Sono](http://img.youtube.com/vi/RxBgP5KgLAI/0.jpg)](http://www.youtube.com/watch?v=RxBgP5KgLAI)
 
-### Support or Contact
+### Memória
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+[![Memória](http://img.youtube.com/vi/07qDno5Xe2s/0.jpg)](http://www.youtube.com/watch?v=07qDno5Xe2s)
+
+### Alzheimer
+
+[![Alzheimer](http://img.youtube.com/vi/i8Joowl65rM/0.jpg)](http://www.youtube.com/watch?v=i8Joowl65rM)
+
+### Insulina
+
+[![Insulina](http://img.youtube.com/vi/8Q9O6rd4bE8/0.jpg)](http://www.youtube.com/watch?v=8Q9O6rd4bE8)
+
+### Diabetes
+
+[![Insulina](http://img.youtube.com/vi/hn_mAbpBFUU/0.jpg)](http://www.youtube.com/watch?v=hn_mAbpBFUU)
