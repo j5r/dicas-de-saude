@@ -7,11 +7,11 @@ Esta página contém vários vídeos sobre saúde e hábitos saudáveis, são au
 | Assunto    | Vídeo                     | Recomendado |
 | :--------- | :------------------------ | ----------- |
 | Leite      | [leite](#leite)           |             |
-| Café       | [café](#cafe)             |             |
-| Limão      | [limão](#limao)           |             |
+| Café       | [café](#café)             |             |
+| Limão      | [limão](#limão)           |             |
 | Sono       | [sono](#sono)             | Melatonina  |
 | Melatonina | [melatonina](#melatonina) |             |
-| Memória    | [memória](#memoria)       |             |
+| Memória    | [memória](#memória)       |             |
 | Alzheimer  | [alzheimer](#alzheimer)   |             |
 | Insulina   | [insulina](#insulina)     |             |
 | Diabetes   | [diabetes](#diabetes)     |             |
