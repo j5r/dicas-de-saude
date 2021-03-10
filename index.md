@@ -4,17 +4,18 @@
 
 Esta página contém vários vídeos sobre saúde e hábitos saudáveis, são aulas que eu pesquisei de um médico endocrinologista que explica com muita maestria o funcionamento metabólico do corpo humano, os principais problemas dos nossos hábitos de vida e as formas de prevenção de eventuais e futuras doenças.
 
-| Assunto    | Vídeo                     | Recomendado |
-| :--------- | :------------------------ | ----------- |
-| Leite      | [leite](#leite)           |             |
-| Café       | [café](#café)             |             |
-| Limão      | [limão](#limão)           |             |
-| Sono       | [sono](#sono)             | Melatonina  |
-| Melatonina | [melatonina](#melatonina) |             |
-| Memória    | [memória](#memória)       |             |
-| Alzheimer  | [alzheimer](#alzheimer)   |             |
-| Insulina   | [insulina](#insulina)     |             |
-| Diabetes   | [diabetes](#diabetes)     |             |
+| Assunto     | Vídeo                       | Recomendado |
+| :---------- | :-------------------------- | ----------- |
+| Leite       | [leite](#leite)             |             |
+| Café        | [café](#café)               |             |
+| Limão       | [limão](#limão)             |             |
+| Sono        | [sono](#sono)               | Melatonina  |
+| Melatonina  | [melatonina](#melatonina)   |             |
+| Memória     | [memória](#memória)         |             |
+| Alzheimer   | [alzheimer](#alzheimer)     |             |
+| Insulina    | [insulina](#insulina)       |             |
+| Diabetes    | [diabetes](#diabetes)       |             |
+| Ácido Úrico | [ácido úrico](#ácido-úrico) |             |
 
 ### Leite
 
@@ -51,3 +52,7 @@ Esta página contém vários vídeos sobre saúde e hábitos saudáveis, são au
 ### Diabetes
 
 [![Insulina](http://img.youtube.com/vi/hn_mAbpBFUU/0.jpg)](http://www.youtube.com/watch?v=hn_mAbpBFUU)
+
+### Ácido Úrico
+
+[![Insulina](http://img.youtube.com/vi/kOQ2qfBgxNM/0.jpg)](http://www.youtube.com/watch?v=kOQ2qfBgxNM)
