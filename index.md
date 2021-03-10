@@ -103,7 +103,7 @@ Consiste principalmente de carnes, ovos, leite e derivados.
 Órgão vital que absorve os nutrientes dos alimentos e lança-os na corrente sanguínea. Dentre alimentos inflamatórios do intestino encontram-se o trigo, o milho, o amendoim, a soja, o leite e o açúcar, dentre outros. O intestino delgado é importante para a imunidade, enquanto o intestino grosso é importante para geração de energia. Um intestino que esteja com a flora bacteriana desequilibrada pode causar um efeito em cascata que pode levar a quadros psicológicos graves, imunidade baixa, problemas de memória, insônia e outros, vide [Serotonina](#serotonina).
 
 [![Intestino](http://img.youtube.com/vi/bvRSFi9A4sw/0.jpg)](http://www.youtube.com/watch?v=bvRSFi9A4sw)
-[![Intestino](http://img.youtube.com/vi/4IoIkS1uVIA/0.jpg)](http://www.youtube.com/watch?v=4IoIkS1uVIA)
+[![Intestino](http://img.youtube.com/vi/NlXV0bQxOiY/0.jpg)](http://www.youtube.com/watch?v=NlXV0bQxOiY)
 [![Intestino](http://img.youtube.com/vi/CQgmHKeN79A/0.jpg)](http://www.youtube.com/watch?v=CQgmHKeN79A)
 [![Intestino](http://img.youtube.com/vi/08NvCMrGa1s/0.jpg)](http://www.youtube.com/watch?v=08NvCMrGa1s)
 
