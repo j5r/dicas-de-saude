@@ -20,13 +20,14 @@ Esta página contém vários vídeos sobre saúde e hábitos saudáveis, são au
 | Memória            | [memória](#memória)                 |                     |
 | Alzheimer          | [alzheimer](#alzheimer)             |                     |
 | Insulina           | [insulina](#insulina)               |                     |
-| Diabetes           | [diabetes](#diabetes)               |                     |
+| Diabetes           | [diabetes](#diabetes)               |  Alzheimer                   |
 | Ácido Úrico        | [ácido úrico](#ácido-úrico)         |                     |
 | Proteína Animal    | [proteína animal](#proteína-animal) |                     |
 | Intestino          | [intestino](#intestino)             |                     |
 | Serotonina         | [serotonina](#serotonina)           |                     |
 | Estresse Oxidativo | [oxidação](#oxidação)               |                     |
 | Caminhada          | [caminhada](#caminhada)             |                     |
+|T. P. M. |[tensão pré-menstrual](#tpm)||
 
 ### Leite
 
@@ -125,6 +126,13 @@ Processo de entoxicação de tecidos do corpo, fazendo-os sofrer. O sistema imun
 Os átomos que compõem as moléculas que formam as nossas células podem ter um ou mais elétrons "livres", o que pode ou não desbalancear a carga elétrica da molécula. A molécula pode ser então estável ou instável por conta dessa carga elétrica extra ou em falta. Quando a molécula perde elétrons, dizemos que ela sofreu uma oxidação. Esse elétron passa para uma molécula vizinha desequilibrando sua carga e tornando-a instável, e ela passará esse elétron adiante e assim sucessivamente. Algumas moléculas naturalmente são mais instáveis, e se tem a sua carga elétrica desbalanceada, ela pode se dividir em duas moléculas menores ou mesmo reagir com outra molécula. Final da história: esses elétrons livres (que formam radicais livres) que ficam vagando pelo corpo podem danificar partes das nossas células, e isso é muito prejudicial. Por isso é importante a ingestão de antioxidantes, que são moléculas capazes de absorver esses elétrons livres sem se desestabilizar.
 
 [![Antioxidantes](http://img.youtube.com/vi/6SdC7NXGNVI/0.jpg)](http://www.youtube.com/watch?v=6SdC7NXGNVI)
+
+
+### T. P. M.
+
+[![TPM](http://img.youtube.com/vi/JgIQE-Z4aJE/0.jpg)](http://www.youtube.com/watch?v=JgIQE-Z4aJE)
+
+
 
 ### Caminhada
 
