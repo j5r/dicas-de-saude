@@ -128,7 +128,7 @@ Os átomos que compõem as moléculas que formam as nossas células podem ter um
 [![Antioxidantes](http://img.youtube.com/vi/6SdC7NXGNVI/0.jpg)](http://www.youtube.com/watch?v=6SdC7NXGNVI)
 
 
-### T. P. M.
+### TPM
 
 [![TPM](http://img.youtube.com/vi/JgIQE-Z4aJE/0.jpg)](http://www.youtube.com/watch?v=JgIQE-Z4aJE)
 
